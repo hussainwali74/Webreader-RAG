@@ -1,0 +1,12 @@
+streamlit
+streamlit-chat
+crawl4ai
+nest_asyncio
+langchain
+langchain_community
+langchain_openai
+langchain_core
+faiss-cpu
+unstructured
+markdown
+python-dotenv
